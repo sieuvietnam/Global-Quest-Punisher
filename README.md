@@ -41,8 +41,6 @@ Those who fail... are **PUNISHED**.
 
 - 💬 Languages
   >   🇻🇳 Vietnamese (vi_VN)
-  > 
-  >   🇺🇸 English (en_US)
   
   **_Auto-detected based on client settings!_**
 
