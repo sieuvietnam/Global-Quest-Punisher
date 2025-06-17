@@ -40,8 +40,8 @@ Those who fail... are **PUNISHED**.
   >   Events and long-term server engagement
 
 - 💬 Languages
-  >   🇻🇳 Vietnamese (vi_VN)
-  
+  >   🇻🇳 Vietnamese 
+  >   ᴇɴ English 
   **_Auto-detected based on client settings!_**
 
 - 🔧 Example Quests:
